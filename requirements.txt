@@ -5,6 +5,9 @@ streamlit
 pandas
 matplotlib
 
+# Testing (used by tests/ and CI -- see .github/workflows/tests.yml)
+pytest
+
 # Not required to run the app -- only needed if you revisit the earlier
 # LLM providers this project tried before settling on Groq (see README's
 # "Known limitations" for why they were dropped).

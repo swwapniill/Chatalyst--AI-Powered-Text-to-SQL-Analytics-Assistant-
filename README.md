@@ -1,5 +1,7 @@
 # Chatalyst
 
+![Tests](https://github.com/swwapniill/Natural-Language-SQL-Analyst/actions/workflows/tests.yml/badge.svg)
+
 *Chat + Analyst — ask a real e-commerce database a question in plain English.*
 
 Get back a correct, validated answer — a table, a chart, and a plain-language
@@ -7,7 +9,7 @@ summary of what ran — without ever risking the underlying data.
 
 **Live demo:** [natural-language-sql-analyst.streamlit.app](https://natural-language-sql-analyst.streamlit.app)
 
-![Chatalyst answering a real question with table, chart, and SQL transparency](screenshots/chatalyst_success.png)
+![Chatalyst demo: asking questions and getting validated answers, tables, and charts](screenshots/chatalyst_demo.gif)
 
 ## Why this exists
 
